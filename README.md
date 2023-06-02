@@ -1,4 +1,4 @@
-![animation](https://github.com/rayypan/rayypan/blob/main/res/31548-robot-says-hello.gif?raw=1)
+![animation](https://rayypan.github.io/rayypan/res/31548-robot-says-hello.gif?raw=)
 
 ### About
 
