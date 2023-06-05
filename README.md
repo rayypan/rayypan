@@ -1,4 +1,4 @@
-![animation](https://rayypan.github.io/rayypan/res/31548-robot-says-hello.gif?raw=1)
+<img width=100% alt="animation" src="https://rayypan.github.io/rayypan/res/31548-robot-says-hello.gif?raw=1"/>
 
 ### About
 
