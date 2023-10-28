@@ -2,7 +2,7 @@
 
 ### About
 
-I'm Sandipan Ray, a 2nd year CS student passionate about AI, WebDev, learning and literature. 
+I'm Sandipan Ray, a 3rd year CS student passionate about AI, WebDev, learning and literature. 
 
 I love exploring diverse subjects and expressing my ideas through writing. Coding challenges and problem-solving fuel my excitement for creating and innovating.
 
